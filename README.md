@@ -1,7 +1,6 @@
 常用选项：
 -
     LuCI ---> Applications ---> luci-app-accesscontrol #访问时间控制
-    LuCI ---> Applications ---> luci-app-adbyby-plus   #广告屏蔽大师Plus +
     LuCI ---> Applications ---> luci-app-arpbind       #IP/MAC绑定
     LuCI ---> Applications ---> luci-app-dnsfilter     #基于DNS的广告过滤
     LuCI ---> Applications ---> luci-app-eqos          #依IP地址限速

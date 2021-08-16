@@ -1,14 +1,2 @@
-注意：
--
-默认源为lede，要换需要在.github/workflows/build-openwrt.yml中换
-
-openwrt-packages为kenzok8的源，要换需要在diy-part1.sh中换
-
-具体安装方法(大概流程)：
--
-SSH connection to Actions 改为 true
-
-进入ssh后：
-
-    cd openwrt
-    make menuconfig
+* 该仓库只用作于储存过去编译好的固件
+* 云编译固件在[Openwrt-Build](https://github.com/ADJazzDEV/OpenWrt-Build)

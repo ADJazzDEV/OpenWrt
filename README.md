@@ -10,3 +10,5 @@ openwrt-packages默认为[kenzok8](https://github.com/kenzok8/openwrt-packages)�
     make menuconfig
     
 配置完成后`Ctrl+D`就不用管了
+
+默认密码`password`

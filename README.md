@@ -1,3 +1,5 @@
+### 目前使用SSH编译有问题，使用配置文件进行编译
+
 ### 注：
 默认源为[Lede](https://github.com/coolsnowwolf/lede)，要换的需要在.github/workflows/build-openwrt.yml中换
 

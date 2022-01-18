@@ -20,17 +20,17 @@ on:
         default: 'false'
 
 env:
-  #REPO_URL: https://github.com/coolsnowwolf/openwrt
+  REPO_URL: https://github.com/coolsnowwolf/openwrt
   #REPO_URL: https://github.com/coolsnowwolf/lede
-  REPO_URL: https://github.com/Lienol/openwrt
-  #REPO_BRANCH: lede-17.01
+  #REPO_URL: https://github.com/Lienol/openwrt
+  REPO_BRANCH: lede-17.01
   #REPO_BRANCH: master
-  REPO_BRANCH: main
+  #REPO_BRANCH: main
   FEEDS_CONF: feeds.conf.default
   #CONFIG_FILE: Lienol.config
   #CONFIG_FILE: coolsnowwolf.config
-  #CONFIG_FILE: MT7621A.config
-  CONFIG_FILE: L-MT7621A.config
+  CONFIG_FILE: c-MT7621A.config
+  #CONFIG_FILE: L-MT7621A.config
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
   UPLOAD_BIN_DIR: false

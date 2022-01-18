@@ -19,3 +19,4 @@
 #echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 #echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 echo 'src-git adjazz https://github.com/ADJazzDEV/OpenWrt-package' >>feeds.conf.default
+echo 'src-git cpackage https://github.com/ADJazzDEV/OpenWrt-package;test' >>feeds.conf.default
